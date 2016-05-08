@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GitHub Playground</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="username_hint">Username</string>
+    <string name="noInternet">You need internet connection!</string>
+    <string name="failureTryAgain">Something went wrong, try again!</string>
+</resources>
