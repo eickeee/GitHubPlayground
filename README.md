@@ -14,6 +14,12 @@ It furthermore demonstrates the usage of some modern Material Design components 
 TODOs
 -------
 * Introduce some use cases that leverage RxJava and RxAndroid
+* Animations, improve Layouts etc.
+
+Screenshots
+-------------
+<img src="https://raw.githubusercontent.com/eickeee/GitHubPlayground/master/Screenshots/Nexus5X_UserSearch.png" alt="Nexus5X_UserSearch" width="250"/>
+<img src="https://raw.githubusercontent.com/eickeee/GitHubPlayground/master/Screenshots/Nexus5X_Repositories.png" alt="Nexus5X_Repositories" width="250"/>
 
 License
 -------
